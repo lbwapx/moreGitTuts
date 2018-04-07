@@ -1,5 +1,5 @@
 Hello world!
 Hello world again!
 Hello World Im branching
-Hello World this happend in remote branch
-Hello World another branch 
+Hello World this happened in remote branch
+Hello World another branch
